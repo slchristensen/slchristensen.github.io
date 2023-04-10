@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2023
 client: Google UX Certification
 category: Learning
-description: The prompt of this learning exercise was to create a responsive web app for a food delivery app for a modern pub. I iterated through the design process, conducting user interviews & usability testing with friends and family. This part of the course introduced me to using Adobe XD for mockups and high-fidelity prototyping. Key Takeaways: Utilizing components and layouts to reduce the amount of time spent when reworking items, and using Design Systems as a starting point to spend less time reinventing the wheel.
+description: The prompt of this learning exercise was to create a responsive web app for a food delivery app for a modern pub. I iterated through the design process, conducting user interviews & usability testing with friends and family. This part of the course introduced me to using Adobe XD for mockups and high-fidelity prototyping. Key Takeaways: Utilizing components and layouts to reduce the amount of time spent when reworking items.
 ---
