@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2023
 client: Google UX Certification
 category: Responsive Web App - Adobe XD
-description: Prompt - Create a responsive web app for a food delivery app for a modern pub. I iterated through the design process, conducting user interviews & usability testing with friends and family. New Tools - Adobe XD for mockups and high-fidelity prototyping. Key Takeaways - Utilizing components and layouts to reduce the amount of rework.
+description: Continuing from the mobile food delivery app, this part of the course exposed me to new tools such as Adobe XD for creating mockups and high-fidelity prototyping. Key Takeaways included utilizing components and layouts to reduce the amount of rework, and learning how to incorporate and use existing Design Systems. 
 ---
