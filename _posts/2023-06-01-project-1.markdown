@@ -4,7 +4,7 @@ modal-id: 1
 date: 2023-06-01
 img: cabin.png
 alt: image-alt
-project-date: April - June 2023
+project-date: April to June 2023
 client: Carlisle Collective
 category: Web App
 description: PLACEHOLDER
