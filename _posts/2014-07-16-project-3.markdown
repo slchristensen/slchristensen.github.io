@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2023-02-23
-img: Responsive\ Web\ Design.png
+img: Responsive Web Design.png
 alt: image-alt
 project-date: January 2023
 client: Google UX Certification
