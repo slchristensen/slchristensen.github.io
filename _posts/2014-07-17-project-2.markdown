@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2023-01-21
+img: Digital Wireframes.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Dec 2022
+client: Google UX Certification
+category: Mobile App
+description: Given the prompt of designing a mobile app for a modern pub food delivery app, I iterated through the design processes of empathize, define, and ideate. This first case study comprehensively covered everything from wireframes and prototypes, to testing and accessibility. As a Product Manager, I find it beyond interesting to take a step into the world of those I work closely with in my day to day. Learning not only the methodology, but the why and thought process behind it, was truly exciting and insightful.
 ---
